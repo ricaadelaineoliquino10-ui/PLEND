@@ -1,0 +1,7 @@
+{
+  "name": "PLEND – Paluwagan & Lending System",
+  "description": "Comprehensive Paluwagan and Lending Management System for member contributions, loan processing, repayment monitoring, and year-end dividend distributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
